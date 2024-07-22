@@ -2,6 +2,13 @@
 This repo provides an introductory level project that allows you to implement a full end-to-end small neural network using real data to compare against traditional machine learning predictive models and build upon it.
 
 ## 1. Foundations
+
+Please reference the following notebook in the repo for live examples to following along with this Foundations section of the readme:
+
+```
+nn_vs_ml.ipynb
+```
+
 ### Project: Predicting House Prices
 ### Objective:
 Implement a neural network to predict house prices and compare its performance with traditional machine learning models like Linear Regression and Random Forest.
