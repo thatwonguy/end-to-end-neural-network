@@ -7,7 +7,7 @@ This repo provides an introductory level project that allows you to implement a 
 Implement a neural network to predict house prices and compare its performance with traditional machine learning models like Linear Regression and Random Forest.
 
 ### Dataset:
-Use the Boston Housing Dataset, which can be accessed from the sklearn library or other sources like Kaggle.
+Use the california housing dataset or ames data set (california data set has more data and less features, and ames has less data but more features), which can be accessed from the sklearn library or other sources like Kaggle.
 Steps:
 1. Data Preparation:
 
