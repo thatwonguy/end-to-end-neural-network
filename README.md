@@ -6,7 +6,7 @@ This repo provides an introductory level project that allows you to implement a 
 Please reference the following notebook in the repo for a live example to following along with this Foundations section of the readme:
 
 ```
-nn_vs_ml.ipynb
+nn_vs_ml_part_1.ipynb
 ```
 
 This Jupiter notebook will have additional markdown cells to explain things in more detail.
@@ -51,3 +51,15 @@ Steps:
   - Comparison: Compare the performance of the neural network with the traditional machine learning models using the same evaluation metrics.
 
 This project covers the full process from data preparation to model comparison and provides a comprehensive understanding of how neural networks stack up against traditional machine learning models.
+
+## Part 2 - Loading, and fine-tuning the neural network model
+
+Please reference the following notebook in the repo for a live example to following along with this Foundations section of the readme:
+
+```
+nn_vs_ml_part_2.ipynb
+```
+
+Note that in part 1, we saved the neural network model that we trained and this is our "pre-trained" model.
+
+This part_2 Jupiter notebook will have additional markdown cells to explain things in more detail.
