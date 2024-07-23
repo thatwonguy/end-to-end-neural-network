@@ -9,6 +9,8 @@ Please reference the following notebook in the repo for a live example to follow
 nn_vs_ml.ipynb
 ```
 
+This Jupiter notebook will have additional markdown cells to explain things in more detail.
+
 ### Project: Predicting House Prices
 ### Objective:
 Implement a neural network to predict house prices and compare its performance with traditional machine learning models like Linear Regression and Random Forest.
