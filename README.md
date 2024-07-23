@@ -3,7 +3,7 @@ This repo provides an introductory level project that allows you to implement a 
 
 ## 1. Foundations
 
-Please reference the following notebook in the repo for live examples to following along with this Foundations section of the readme:
+Please reference the following notebook in the repo for a live example to following along with this Foundations section of the readme:
 
 ```
 nn_vs_ml.ipynb
