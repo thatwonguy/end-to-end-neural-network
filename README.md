@@ -54,7 +54,7 @@ This project covers the full process from data preparation to model comparison a
 
 ## Part 2 - Loading, and fine-tuning the neural network model
 
-Please reference the following notebook in the repo for a live example to following along with this Foundations section of the readme:
+Please reference the following notebook in the repo for a live example to follow along with this part 2 section of the readme:
 
 ```
 nn_vs_ml_part_2.ipynb
